@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AA95C22-5B6C-4757-A278-A1C7B9ED29A2}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tp_modul9_103022400059\\tp_modul9_103022400059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AA95C22-5B6C-4757-A278-A1C7B9ED29A2}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|solutionrelative:tp_modul9_103022400059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{768EE1D8-3CD1-3537-9393-9B23E325C194}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tp_modul9_103022400059\\tp_modul9_103022400059\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{768EE1D8-3CD1-3537-9393-9B23E325C194}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|solutionrelative:tp_modul9_103022400059\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768EE1D8-3CD1-3537-9393-9B23E325C194}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tp_modul9_103022400059\\tp_modul9_103022400059\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768EE1D8-3CD1-3537-9393-9B23E325C194}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|solutionrelative:tp_modul9_103022400059\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768EE1D8-3CD1-3537-9393-9B23E325C194}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|d:\\tugas_sem_4\\konstruksi perangkat lunak\\tp_modul9_103022400059\\tp_modul9_103022400059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768EE1D8-3CD1-3537-9393-9B23E325C194}|TP_MODUL9_103022400059\\TP_MODUL9_103022400059.csproj|solutionrelative:tp_modul9_103022400059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\TP_MODUL9_103022400059\\covid_config.json",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400059\\covid_config.json",
+              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\TP_MODUL9_103022400059\\covid_config.json",
+              "RelativeToolTip": "TP_MODUL9_103022400059\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T17:10:22.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\TP_MODUL9_103022400059\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400059\\CovidConfig.cs",
+              "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\TP_MODUL9_103022400059\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400059\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:53:40.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\TP_MODUL9_103022400059\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL9_103022400059\\Program.cs",
               "ToolTip": "D:\\TUGAS_SEM_4\\KONSTRUKSI PERANGKAT LUNAK\\TP_MODUL9_103022400059\\TP_MODUL9_103022400059\\Program.cs",
               "RelativeToolTip": "TP_MODUL9_103022400059\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-25T16:36:35.686Z",
               "EditorCaption": ""
